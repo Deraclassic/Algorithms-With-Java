@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b029043-36fc-4ca4-985e-13a8b9f40553" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hash_map_examples/AutoCorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hash_map_examples/HashMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hash_map_examples/MiddleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/CreditCardMask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/DNACompliments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/Isogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/IsogramWithTolerance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/Xs_and_Os.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/SplitInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3_Algo/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3_Algo/LongestUniqueCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6/GroupPhotography.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6/GroupPhotographyWithList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cpQlh6PBE8090XlT875PvOQBNe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoCorrect.executor": "Run",
+    "Application.CreditCardMask (1).executor": "Run",
+    "Application.CreditCardMask.executor": "Run",
+    "Application.DNACompliments.executor": "Run",
+    "Application.GroupPhotograph_SplitInteger.executor": "Run",
+    "Application.GroupPhotography.executor": "Run",
+    "Application.HashMapEx.executor": "Run",
+    "Application.Isogram.executor": "Run",
+    "Application.IsogramWithTolerance.executor": "Run",
+    "Application.LongestUniqueCharactersInAString.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.MiddleChar.executor": "Run",
+    "Application.Xs_and_Os.executor": "Run",
+    "Maven.Algorithm [clean].executor": "Run",
+    "Maven.Algorithm [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/mac/IdeaProjects/Algorithm/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DNACompliments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1_strings.DNACompliments" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupPhotograph_SplitInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.GroupPhotograph_SplitInteger" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupPhotography" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.GroupPhotography" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsogramWithTolerance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1_strings.IsogramWithTolerance" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestUniqueCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3_Algo.LongestUniqueCharactersInAString" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3_Algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupPhotography" />
+        <item itemvalue="Application.LongestUniqueCharactersInAString" />
+        <item itemvalue="Application.GroupPhotograph_SplitInteger" />
+        <item itemvalue="Application.IsogramWithTolerance" />
+        <item itemvalue="Application.DNACompliments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b029043-36fc-4ca4-985e-13a8b9f40553" name="Changes" comment="" />
+      <created>1708806195915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708806195915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$Main.ic" NAME="Main Coverage Results" MODIFIED="1708808493063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
