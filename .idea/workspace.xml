@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b029043-36fc-4ca4-985e-13a8b9f40553" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hash_map_examples/AutoCorrect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hash_map_examples/HashMapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hash_map_examples/MiddleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/CreditCardMask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/DNACompliments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/Isogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/IsogramWithTolerance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1_strings/Xs_and_Os.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/SplitInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3_Algo/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3_Algo/LongestUniqueCharactersInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week6/GroupPhotography.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week6/GroupPhotographyWithList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6/OceanView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6/OceanViewBuilding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +49,7 @@
     "Application.LongestUniqueCharactersInAString.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.MiddleChar.executor": "Run",
+    "Application.OceanView.executor": "Run",
     "Application.Xs_and_Os.executor": "Run",
     "Maven.Algorithm [clean].executor": "Run",
     "Maven.Algorithm [package].executor": "Run",
