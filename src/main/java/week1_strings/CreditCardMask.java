@@ -16,7 +16,6 @@ package week1_strings;
 
 public class CreditCardMask {
     public static String maskify(String str) {
-       // throw new UnsupportedOperationException("Unimplemented");
         if(str.length()<= 4){
             return str;
         }
